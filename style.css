@@ -1,11 +1,17 @@
-body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+
+body {background-color:black;font-family:arial;color:white;align-items: center;}
+h1{color:grey;font-family:verdana;align-items: left;margin-left: -100px;}
 .maindiv{
-  background-color: white;
+  margin: auto;
+  
+  background-color: white  ;
   color: black;
-  width: 300px;
+  width: 500px;
   padding: 20px;
+  padding-left: 120px;
+  padding-right: 00px;
   border-radius: 25px;
-  align-content: center; 
+  
 }
 
+footer{margin-left: -100px;}
